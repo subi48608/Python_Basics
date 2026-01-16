@@ -1,0 +1,7 @@
+name=input("Enter your Name:")
+role=input("Enter your Role:")
+today_date=input("Enter Todays date:")
+print("Enter Details:")
+print("Name:", name)
+print("Role:", role)
+print("Date:", today_date)
